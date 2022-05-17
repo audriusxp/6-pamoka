@@ -1,0 +1,23 @@
+.pirma-pastraipa {
+    margin: 0px;
+    padding-left: 30px;
+    border: 2px solid green;
+    
+}
+.antra-pastraipa {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding: 10px;
+    border-bottom: 5px dotted red;
+    
+}
+
+
+.trecia-pastraipa {
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-right: 20px;
+    padding-top: 10px;
+    padding-left: 17px;
+    padding-right: 17px;
+}
